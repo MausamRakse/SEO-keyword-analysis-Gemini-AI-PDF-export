@@ -48,6 +48,14 @@
 ## Author & Contact
 
 Mousam Rakse
+
+LinkedIn: https://www.linkedin.com/in/mousam-rakse
+
+GitHub: https://github.com/MausamRakse
+
+Email: mousamrakse@gmail.com
+
+Like what you see? Give it a ⭐ on GitHub!
 ##  Quick Start Guide
 <details>
   <summary>Click to expand setup instructions</summary>
@@ -95,10 +103,3 @@ SEO-keyword-analysis-Gemini-AI-PDF-export/
 
 
 
-LinkedIn: https://www.linkedin.com/in/mousam-rakse
-
-GitHub: https://github.com/MausamRakse
-
-Email: your-email@example.com
-
-Like what you see? Give it a ⭐ on GitHub!
